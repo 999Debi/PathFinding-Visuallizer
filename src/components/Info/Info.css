@@ -1,0 +1,23 @@
+ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 0px;
+}
+li{
+    display: flex;
+    margin-right: 50px;
+
+}
+ li svg{
+    margin: auto;
+    margin-right: 8px;
+}
+.box{
+    
+    width: 90vw;
+    margin: auto;
+    margin-top: 12px;
+    
+    background-color: rgb(217, 245, 248)
+}

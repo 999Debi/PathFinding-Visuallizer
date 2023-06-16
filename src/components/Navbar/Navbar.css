@@ -1,0 +1,49 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+
+.navbar{
+    width:100%;  
+    height:min(20vh , 100px);
+    background:black;
+}
+
+.navbar .selected {
+   
+    background-color: greenyellow ;
+} 
+button{
+
+    background-position: center;
+    height: 40px;
+    width: 80px;
+}
+.tar{
+     background-repeat: no-repeat;
+    background-position: center;
+    height: 40px;
+    width: 80px;
+
+}
+.start{
+    font-size: 1.5rem;
+    margin: auto;
+}
+.wall{
+    background-color: black;
+}
+.font{
+    font-size: 1.5rem;
+}
+.container{
+display: flex;
+    flex-wrap: inherit;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.allbtn{
+        justify-content: space-evenly;
+    width: 50vw;
+    display: flex;
+}
+
